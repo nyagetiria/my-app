@@ -1,0 +1,16 @@
+[debug] [2025-07-30T10:40:28.136Z] ----------------------------------------------------------------------
+[debug] [2025-07-30T10:40:28.145Z] Command:       /home/naomi/.nvm/versions/node/v24.3.0/bin/node /home/naomi/.nvm/versions/node/v24.3.0/bin/firebase init function
+[debug] [2025-07-30T10:40:28.146Z] CLI Version:   14.11.1
+[debug] [2025-07-30T10:40:28.146Z] Platform:      linux
+[debug] [2025-07-30T10:40:28.147Z] Node Version:  v24.3.0
+[debug] [2025-07-30T10:40:28.148Z] Time:          Wed Jul 30 2025 13:40:28 GMT+0300 (East Africa Time)
+[debug] [2025-07-30T10:40:28.148Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-07-30T10:40:28.158Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-07-30T10:40:28.159Z] > authorizing via signed-in user (naomi.nyagetira@student.moringaschool.com)
+[debug] [2025-07-30T10:40:33.239Z] Error: Timed out.
+    at Timeout._onTimeout (/home/naomi/.nvm/versions/node/v24.3.0/lib/node_modules/firebase-tools/lib/utils.js:272:49)
+    at listOnTimeout (node:internal/timers:608:17)
+    at process.processTimers (node:internal/timers:543:7)
+[error] 
+[error] Error: An unexpected error has occurred.
